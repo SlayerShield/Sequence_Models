@@ -1,11 +1,11 @@
 ## Updates from Neural Machine Translation with Attention
 
-# If you were working on the notebook before this update...
+### If you were working on the notebook before this update...
 * The current notebook is version "4a".
 * You can find your original work saved in the notebook with the previous version name ("v4") 
 * To view the file directory, go to the menu "File->Open", and this will open a new tab that shows the file directory.
 
-# List of updates
+### List of updates
 * Clarified names of variables to be consistent with the lectures and consistent within the assignment
     - pre-attention bi-directional LSTM: the first LSTM that processes the input data.
         - 'a': the hidden state of the pre-attention LSTM.
