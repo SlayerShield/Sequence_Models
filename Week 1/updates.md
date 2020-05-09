@@ -1,4 +1,4 @@
-##Updates from Building a Recurrent Neural Network Step by Step 
+## Updates from Building a Recurrent Neural Network Step by Step 
 
 * "Forward propagation for the basic RNN", added sections to clarify variable names and shapes:
     - "Dimensions of $x^{\langle t \rangle}$"
@@ -48,7 +48,7 @@
 * For unit tests, updated print statements and "expected output" for easier comparisons.
 
 
-##Updates from Building a recurrent neural network - step by step
+## Updates from Building a recurrent neural network - step by step
 
 * "Forward propagation for the basic RNN", added sections to clarify variable names and shapes:
     - "Dimensions of $x^{\langle t \rangle}$"
@@ -98,7 +98,7 @@
 * For unit tests, updated print statements and "expected output" for easier comparisons
 
 
-##Updates from Jazz improvisation with LSTM
+## Updates from Jazz improvisation with LSTM
 
 * `djmodel`
     - Explains `Input` layer and its parameter `shape`.
